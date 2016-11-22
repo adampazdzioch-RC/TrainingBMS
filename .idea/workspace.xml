@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b52ec0ef-9af6-43c8-9c5a-74f14d5aef9b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/eu/sig/training/ch05/Rectangle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/eu/sig/training/ch05/BoardPanel.java" afterPath="$PROJECT_DIR$/src/eu/sig/training/ch05/BoardPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/eu/sig/training/ch04/AccontNumberValidator.java" afterPath="$PROJECT_DIR$/src/eu/sig/training/ch04/AccontNumberValidator.java" />
     </list>
     <ignored path="TrainingBMS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,30 +25,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BoardPanel.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/eu/sig/training/ch05/BoardPanel.java">
+      <file leaf-file-name="AccontNumberValidator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/eu/sig/training/ch04/AccontNumberValidator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            <state relative-caret-position="90">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/eu/sig/training/ch05/Rectangle.java">
+      <file leaf-file-name="CheckingAccount.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/eu/sig/training/ch04/CheckingAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-              <folding>
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#548#549#0" expanded="true" />
-                <element signature="e#572#573#0" expanded="true" />
-                <element signature="e#680#681#0" expanded="true" />
-                <element signature="e#704#705#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="108">
+              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SavingsAccount.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/eu/sig/training/ch04/SavingsAccount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WithdrawalValidator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/eu/sig/training/ch04/WithdrawalValidator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -83,13 +93,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/eu/sig/training/ch03/BinaryTreeSearch.java" />
-        <option value="$PROJECT_DIR$/src/eu/sig/training/ch04/AccontNumberValidator.java" />
         <option value="$PROJECT_DIR$/src/eu/sig/training/ch04/WithdrawalValidator.java" />
         <option value="$PROJECT_DIR$/src/eu/sig/training/ch04/SavingsAccount.java" />
         <option value="$PROJECT_DIR$/src/eu/sig/training/ch04/CheckingAccount.java" />
         <option value="$PROJECT_DIR$/src/eu/sig/training/ch05/Square.java" />
         <option value="$PROJECT_DIR$/src/eu/sig/training/ch05/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/eu/sig/training/ch05/BoardPanel.java" />
+        <option value="$PROJECT_DIR$/src/eu/sig/training/ch04/AccontNumberValidator.java" />
       </list>
     </option>
   </component>
@@ -627,38 +637,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/eu/sig/training/ch04/WithdrawalValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/eu/sig/training/ch04/AccontNumberValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/eu/sig/training/ch04/CheckingAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/eu/sig/training/ch04/SavingsAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="64" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/eu/sig/training/ch03/BinaryTreeSearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -671,6 +649,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eu/sig/training/ch05/BoardPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -691,10 +677,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/eu/sig/training/ch05/BoardPanel.java">
+    <entry file="file://$PROJECT_DIR$/src/eu/sig/training/ch04/AccontNumberValidator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        <state relative-caret-position="90">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eu/sig/training/ch04/WithdrawalValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eu/sig/training/ch04/SavingsAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eu/sig/training/ch04/CheckingAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
           <folding />
         </state>
       </provider>

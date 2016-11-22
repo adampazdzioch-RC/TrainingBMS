@@ -3,7 +3,7 @@ package eu.sig.training.ch04;
 /**
  * Created by apazdzioch on 22.11.16.
  */
-public class AccontNumberValidator {
+class AccontNumberValidator {
     private static int getSum( String counterAccount ) {
         int sum = 0; // <1>
         for (int i = 0; i < counterAccount.length(); i++) {
